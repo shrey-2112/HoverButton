@@ -27,4 +27,5 @@ button:hover{
     font-size: 82%;
     box-shadow: 0 0.5em 0.5em -0.4em #F23D4C ;
     transform: translateY(-0.35em);
+    padding:0.8em 1.5em;
 }
