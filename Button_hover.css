@@ -8,7 +8,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 105vh;
+    height: 107vh;
     background-color: #151b29;
 }
 button{
@@ -24,7 +24,7 @@ button:hover{
     background: none;
     border-color: #8C262E;
     color: #F23D4C;
-    font-size: 82%;
+    font-size: 84%;
     box-shadow: 0 0.5em 0.5em -0.4em #F23D4C ;
     transform: translateY(-0.35em);
 }
